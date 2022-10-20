@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7dfd0e19","path":"/forms/","title":"Official Adirondack Swimming Forms and Information","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666281904000,"contributors":[{"name":"dnx","email":"dnx@deniapps.com","commits":1}]},"filePathRelative":"forms/README.md"}');export{e as data};

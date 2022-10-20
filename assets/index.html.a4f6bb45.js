@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4290fe40","path":"/general/","title":"General Information","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666281904000,"contributors":[{"name":"dnx","email":"dnx@deniapps.com","commits":1}]},"filePathRelative":"general/README.md"}');export{e as data};

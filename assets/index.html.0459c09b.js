@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-786386f9","path":"/officers/","title":"Adirondack Swimming Officers and Board of Directors","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666281904000,"contributors":[{"name":"dnx","email":"dnx@deniapps.com","commits":1}]},"filePathRelative":"officers/README.md"}');export{e as data};
