@@ -22,8 +22,8 @@ touch .nojekyll
 
 git init
 #如果你没有设置global git user, 或者你不想用默认的user，那么在这里设置
-# git config user.name "YOURNAME."
-# git config user.email "YOUREMAIL"
+git config user.name "DNX"
+git config user.email "dnx@deniapps.com"
 
 git add -A
 git commit -m 'deploy'
@@ -31,6 +31,6 @@ git commit -m 'deploy'
 # AGAIN! 把本文件另存为local_deploy.sh，然后修改下面的部署地址
 # gh_access_token 必须再你的环境变量里。如果你用的是mac，可以加到~/.zschrc里
 # 如何设置github access token: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
-git push -f "https://${gh_access_token}@github.com/deniapps/vns.git" main:vns-ad
+git push -f "https://${gh_access_token}@github.com/denixuan/lsc-ad.git" main:vns-ad
 
 cd -
