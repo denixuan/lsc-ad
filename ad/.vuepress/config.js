@@ -7,9 +7,9 @@ import inferSiderbars from "./utils";
 
 export default defineUserConfig({
   lang: "en-US",
-  title: "VuePress Next Starter",
-  description: "VuePress Next 懒人包 - VNS",
-  base: "/vns/", // if deployed to the root, then use "/"
+  title: "Adirondack Swimming, Inc",
+  description: "Athletes are our focus. Providing opportunities to succeed in life through swimming is our passion. Moving mountains, one stroke at a time is our vision",
+  base: "/", // if deployed to the root, then use "/"
   head: [
     [
       "link",
@@ -23,8 +23,8 @@ export default defineUserConfig({
     // default theme config
     logo: "/logo.png",
     sidebar: inferSiderbars(),
-    repo: "deniapps/vns",
-    editLinks: true,
+    repo: "denixuan/lsc-ad",
+    editLinks: false,
     navbar: [
       {
         text: "Home",
@@ -58,7 +58,7 @@ export default defineUserConfig({
   plugins: [
     sitemapPlugin({
       // your options
-      hostname: "ad.swimstandards.com/",
+      hostname: "lscad.swimstandards.com/",
     }),
     googleAnalyticsPlugin({
       // options

@@ -30,6 +30,7 @@ footer: MIT Licensed | Copyright © 2022-DENIAPPS
 
 ## News
 
+- 10/19 - Warmup Schedule and Lane Timing Posted for Trick or Treat
 - 10/18 - CHANGE Notice and Psyche Sheets Posted for Trick or Treat
 - 10/07 - Meet Info Posted for Fall Frenzy
 - 10/02 - Meet Info Posted for Starfish Fall Spook-Tacular
